@@ -12,7 +12,7 @@ This repository contains the code and documentation to create a **custom Stream 
 
 ## Components
 
-- **Arduino Mega 2560** (Others can be used, but with limited functions)
+- **Arduino Mega 2560** (For PlugAndPlay, other microcontrollers might need changes in the code)
 - **TFT LCD Touchscreen** (480x320 preferably)
 - **Bluetooth Module** (optional, can connect via USB)
 - **RTC DS1307** (optional, for showing real time)
