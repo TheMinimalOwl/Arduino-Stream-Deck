@@ -1,4 +1,4 @@
-# Stream Deck with Arduino
+# Stream Deck with Arduino (discontinued)
 
 This repository contains the code and documentation to create a **custom Stream Deck** using an **Arduino** and a touch LCD screen. The Stream Deck is a programmable button device that allows you to launch applications, execute macros, and control various functions on your PC, making it ideal for streamers, content creators, and automation enthusiasts.
 
